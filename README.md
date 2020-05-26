@@ -1,6 +1,6 @@
 # 贪吃蛇游戏
 
-[效果预览](https://sevlt.github.io/Snake/index.html)
+[效果预览](https://sevlt.github.io/Snake)
 
 ### 移动方式
 
